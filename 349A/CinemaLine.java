@@ -34,6 +34,5 @@ public class CinemaLine {
 
 		}
 		System.out.println("YES");
-
 	}
 }
